@@ -1,0 +1,198 @@
+2026-06-25 10:33:26,314 - INFO - Assignment 2: Starting experiments
+2026-06-25 10:43:57,155 - INFO - Experiment: baseline
+2026-06-25 10:43:57,155 - INFO - Episodes=1, alpha=0.1, gamma=0.9, epsilon=0.1
+2026-06-25 10:47:17,325 - INFO - Experiment: baseline_alpha_0.1_eps_0.1
+2026-06-25 10:47:17,326 - INFO - Episodes=5000, alpha=0.1, gamma=0.9, epsilon=0.1
+2026-06-25 10:47:19,129 - INFO - Episode 500: reward=-121, steps=106
+2026-06-25 10:47:19,731 - INFO - Episode 1000: reward=-20, steps=14
+2026-06-25 10:47:20,018 - INFO - Episode 1500: reward=-19, steps=40
+2026-06-25 10:47:20,202 - INFO - Episode 2000: reward=12, steps=9
+2026-06-25 10:47:20,376 - INFO - Episode 2500: reward=-6, steps=18
+2026-06-25 10:47:20,540 - INFO - Episode 3000: reward=-3, steps=15
+2026-06-25 10:47:20,702 - INFO - Episode 3500: reward=-6, steps=18
+2026-06-25 10:47:20,892 - INFO - Episode 4000: reward=-6, steps=18
+2026-06-25 10:47:21,111 - INFO - Episode 4500: reward=6, steps=15
+2026-06-25 10:47:21,275 - INFO - Episode 5000: reward=2, steps=19
+2026-06-25 10:55:26,291 - INFO - Experiment: baseline_alpha_0.1_eps_0.1
+2026-06-25 10:55:26,291 - INFO - Episodes=5000, alpha=0.1, gamma=0.9, epsilon=0.1
+2026-06-25 10:55:27,855 - INFO - Episode 500: reward=-111, steps=105
+2026-06-25 10:55:28,418 - INFO - Episode 1000: reward=-10, steps=31
+2026-06-25 10:55:28,637 - INFO - Episode 1500: reward=-4, steps=16
+2026-06-25 10:55:28,804 - INFO - Episode 2000: reward=7, steps=14
+2026-06-25 10:55:28,951 - INFO - Episode 2500: reward=10, steps=11
+2026-06-25 10:55:29,100 - INFO - Episode 3000: reward=5, steps=16
+2026-06-25 10:55:29,256 - INFO - Episode 3500: reward=13, steps=8
+2026-06-25 10:55:29,502 - INFO - Episode 4000: reward=0, steps=12
+2026-06-25 10:55:29,652 - INFO - Episode 4500: reward=-7, steps=19
+2026-06-25 10:55:29,813 - INFO - Episode 5000: reward=0, steps=12
+2026-06-25 10:55:36,823 - INFO - Experiment: alpha_0.01_eps_0.1
+2026-06-25 10:55:36,823 - INFO - Episodes=5000, alpha=0.01, gamma=0.9, epsilon=0.1
+2026-06-25 10:55:38,997 - INFO - Episode 500: reward=-308, steps=200
+2026-06-25 10:55:40,774 - INFO - Episode 1000: reward=-317, steps=200
+2026-06-25 10:55:42,530 - INFO - Episode 1500: reward=-119, steps=104
+2026-06-25 10:55:44,595 - INFO - Episode 2000: reward=-160, steps=118
+2026-06-25 10:55:46,285 - INFO - Episode 2500: reward=-194, steps=152
+2026-06-25 10:55:47,850 - INFO - Episode 3000: reward=-220, steps=187
+2026-06-25 10:55:49,099 - INFO - Episode 3500: reward=-113, steps=98
+2026-06-25 10:55:50,355 - INFO - Episode 4000: reward=13, steps=8
+2026-06-25 10:55:51,379 - INFO - Episode 4500: reward=-125, steps=110
+2026-06-25 10:55:52,224 - INFO - Episode 5000: reward=14, steps=7
+2026-06-25 10:55:52,504 - INFO - Experiment: alpha_0.001_eps_0.1
+2026-06-25 10:55:52,504 - INFO - Episodes=5000, alpha=0.001, gamma=0.9, epsilon=0.1
+2026-06-25 10:55:55,272 - INFO - Episode 500: reward=-308, steps=200
+2026-06-25 10:55:57,614 - INFO - Episode 1000: reward=-308, steps=200
+2026-06-25 10:55:59,790 - INFO - Episode 1500: reward=-281, steps=200
+2026-06-25 10:56:02,042 - INFO - Episode 2000: reward=-272, steps=200
+2026-06-25 10:56:03,977 - INFO - Episode 2500: reward=-263, steps=200
+2026-06-25 10:56:05,801 - INFO - Episode 3000: reward=-281, steps=200
+2026-06-25 10:56:07,749 - INFO - Episode 3500: reward=-263, steps=200
+2026-06-25 10:56:09,581 - INFO - Episode 4000: reward=-253, steps=175
+2026-06-25 10:56:11,493 - INFO - Episode 4500: reward=-231, steps=189
+2026-06-25 10:56:13,364 - INFO - Episode 5000: reward=-91, steps=76
+2026-06-25 10:56:13,364 - INFO - Experiment: alpha_0.2_eps_0.1
+2026-06-25 10:56:13,364 - INFO - Episodes=5000, alpha=0.2, gamma=0.9, epsilon=0.1
+2026-06-25 10:56:14,376 - INFO - Episode 500: reward=-82, steps=76
+2026-06-25 10:56:14,626 - INFO - Episode 1000: reward=5, steps=16
+2026-06-25 10:56:14,774 - INFO - Episode 1500: reward=-19, steps=22
+2026-06-25 10:56:14,926 - INFO - Episode 2000: reward=9, steps=12
+2026-06-25 10:56:15,073 - INFO - Episode 2500: reward=7, steps=14
+2026-06-25 10:56:15,223 - INFO - Episode 3000: reward=4, steps=17
+2026-06-25 10:56:15,372 - INFO - Episode 3500: reward=10, steps=11
+2026-06-25 10:56:15,562 - INFO - Episode 4000: reward=6, steps=15
+2026-06-25 10:56:15,758 - INFO - Episode 4500: reward=10, steps=11
+2026-06-25 10:56:15,908 - INFO - Episode 5000: reward=6, steps=15
+2026-06-25 10:57:46,027 - INFO - Experiment: alpha_0.1_eps_0.2
+2026-06-25 10:57:46,027 - INFO - Episodes=5000, alpha=0.1, gamma=0.9, epsilon=0.2
+2026-06-25 10:57:47,441 - INFO - Episode 500: reward=-88, steps=73
+2026-06-25 10:57:47,973 - INFO - Episode 1000: reward=-37, steps=40
+2026-06-25 10:57:48,225 - INFO - Episode 1500: reward=5, steps=16
+2026-06-25 10:57:48,513 - INFO - Episode 2000: reward=0, steps=12
+2026-06-25 10:57:48,705 - INFO - Episode 2500: reward=-14, steps=17
+2026-06-25 10:57:48,879 - INFO - Episode 3000: reward=-10, steps=13
+2026-06-25 10:57:49,055 - INFO - Episode 3500: reward=-3, steps=15
+2026-06-25 10:57:49,237 - INFO - Episode 4000: reward=4, steps=17
+2026-06-25 10:57:49,404 - INFO - Episode 4500: reward=-16, steps=19
+2026-06-25 10:57:49,672 - INFO - Episode 5000: reward=-2, steps=14
+2026-06-25 10:57:49,683 - INFO - Experiment: alpha_0.1_eps_0.3
+2026-06-25 10:57:49,683 - INFO - Episodes=5000, alpha=0.1, gamma=0.9, epsilon=0.3
+2026-06-25 10:57:51,614 - INFO - Episode 500: reward=-36, steps=21
+2026-06-25 10:57:52,275 - INFO - Episode 1000: reward=-84, steps=42
+2026-06-25 10:57:52,570 - INFO - Episode 1500: reward=10, steps=11
+2026-06-25 10:57:52,871 - INFO - Episode 2000: reward=-17, steps=20
+2026-06-25 10:57:53,111 - INFO - Episode 2500: reward=-7, steps=19
+2026-06-25 10:57:53,448 - INFO - Episode 3000: reward=-27, steps=21
+2026-06-25 10:57:53,667 - INFO - Episode 3500: reward=-20, steps=23
+2026-06-25 10:57:53,881 - INFO - Episode 4000: reward=-77, steps=35
+2026-06-25 10:57:54,131 - INFO - Episode 4500: reward=-26, steps=29
+2026-06-25 10:57:54,430 - INFO - Episode 5000: reward=-16, steps=19
+2026-06-25 10:59:03,169 - INFO - Experiment: best_combo
+2026-06-25 10:59:03,170 - INFO - Episodes=5000, alpha=0.2, gamma=0.9, epsilon=0.1
+2026-06-25 10:59:04,238 - INFO - Episode 500: reward=4, steps=17
+2026-06-25 10:59:04,457 - INFO - Episode 1000: reward=7, steps=14
+2026-06-25 10:59:04,641 - INFO - Episode 1500: reward=-4, steps=16
+2026-06-25 10:59:04,804 - INFO - Episode 2000: reward=7, steps=14
+2026-06-25 10:59:04,996 - INFO - Episode 2500: reward=1, steps=20
+2026-06-25 10:59:05,170 - INFO - Episode 3000: reward=8, steps=13
+2026-06-25 10:59:05,424 - INFO - Episode 3500: reward=1, steps=11
+2026-06-25 10:59:05,571 - INFO - Episode 4000: reward=-2, steps=14
+2026-06-25 10:59:05,728 - INFO - Episode 4500: reward=3, steps=18
+2026-06-25 10:59:05,905 - INFO - Episode 5000: reward=-14, steps=17
+2026-06-25 15:48:49,542 - INFO - Assignment 2: Starting experiments
+2026-06-25 16:06:46,377 - INFO - Assignment 2: Starting experiments
+2026-06-25 16:06:46,993 - INFO - Experiment: baseline
+2026-06-25 16:06:46,996 - INFO - Episodes=1, alpha=0.1, gamma=0.9, epsilon=0.1
+2026-06-25 16:06:47,140 - INFO - Experiment: baseline_alpha_0.1_eps_0.1
+2026-06-25 16:06:47,140 - INFO - Episodes=5000, alpha=0.1, gamma=0.9, epsilon=0.1
+2026-06-25 16:06:49,673 - INFO - Episode 500: reward=-121, steps=88
+2026-06-25 16:06:50,609 - INFO - Episode 1000: reward=-6, steps=18
+2026-06-25 16:06:50,989 - INFO - Episode 1500: reward=3, steps=18
+2026-06-25 16:06:51,301 - INFO - Episode 2000: reward=7, steps=14
+2026-06-25 16:06:51,626 - INFO - Episode 2500: reward=-3, steps=15
+2026-06-25 16:06:51,918 - INFO - Episode 3000: reward=4, steps=17
+2026-06-25 16:06:52,211 - INFO - Episode 3500: reward=4, steps=17
+2026-06-25 16:06:52,521 - INFO - Episode 4000: reward=10, steps=11
+2026-06-25 16:06:52,836 - INFO - Episode 4500: reward=-19, steps=22
+2026-06-25 16:06:53,142 - INFO - Episode 5000: reward=6, steps=15
+2026-06-25 16:06:53,943 - INFO - Experiment: alpha_0.01_eps_0.1
+2026-06-25 16:06:53,943 - INFO - Episodes=5000, alpha=0.01, gamma=0.9, epsilon=0.1
+2026-06-25 16:06:56,495 - INFO - Episode 500: reward=-61, steps=82
+2026-06-25 16:06:58,754 - INFO - Episode 1000: reward=-281, steps=200
+2026-06-25 16:07:00,844 - INFO - Episode 1500: reward=-248, steps=197
+2026-06-25 16:07:02,882 - INFO - Episode 2000: reward=-56, steps=68
+2026-06-25 16:07:04,661 - INFO - Episode 2500: reward=-49, steps=52
+2026-06-25 16:07:06,285 - INFO - Episode 3000: reward=-121, steps=133
+2026-06-25 16:07:07,757 - INFO - Episode 3500: reward=-272, steps=200
+2026-06-25 16:07:09,005 - INFO - Episode 4000: reward=-79, steps=55
+2026-06-25 16:07:10,158 - INFO - Episode 4500: reward=8, steps=13
+2026-06-25 16:07:11,110 - INFO - Episode 5000: reward=-132, steps=117
+2026-06-25 16:07:11,110 - INFO - Experiment: alpha_0.001_eps_0.1
+2026-06-25 16:07:11,110 - INFO - Episodes=5000, alpha=0.001, gamma=0.9, epsilon=0.1
+2026-06-25 16:07:13,657 - INFO - Episode 500: reward=-121, steps=133
+2026-06-25 16:07:16,113 - INFO - Episode 1000: reward=-290, steps=200
+2026-06-25 16:07:18,345 - INFO - Episode 1500: reward=-272, steps=200
+2026-06-25 16:07:20,649 - INFO - Episode 2000: reward=-254, steps=200
+2026-06-25 16:07:22,872 - INFO - Episode 2500: reward=-106, steps=82
+2026-06-25 16:07:25,138 - INFO - Episode 3000: reward=-272, steps=200
+2026-06-25 16:07:27,350 - INFO - Episode 3500: reward=-185, steps=143
+2026-06-25 16:07:29,704 - INFO - Episode 4000: reward=-236, steps=200
+2026-06-25 16:07:32,112 - INFO - Episode 4500: reward=-98, steps=110
+2026-06-25 16:07:34,315 - INFO - Episode 5000: reward=-248, steps=179
+2026-06-25 16:07:34,329 - INFO - Experiment: alpha_0.2_eps_0.1
+2026-06-25 16:07:34,329 - INFO - Episodes=5000, alpha=0.2, gamma=0.9, epsilon=0.1
+2026-06-25 16:07:35,576 - INFO - Episode 500: reward=5, steps=16
+2026-06-25 16:07:35,812 - INFO - Episode 1000: reward=11, steps=10
+2026-06-25 16:07:36,006 - INFO - Episode 1500: reward=11, steps=10
+2026-06-25 16:07:36,208 - INFO - Episode 2000: reward=-7, steps=19
+2026-06-25 16:07:36,402 - INFO - Episode 2500: reward=7, steps=14
+2026-06-25 16:07:36,602 - INFO - Episode 3000: reward=7, steps=14
+2026-06-25 16:07:36,785 - INFO - Episode 3500: reward=8, steps=13
+2026-06-25 16:07:36,985 - INFO - Episode 4000: reward=12, steps=9
+2026-06-25 16:07:37,179 - INFO - Episode 4500: reward=5, steps=16
+2026-06-25 16:07:37,379 - INFO - Episode 5000: reward=8, steps=13
+2026-06-25 16:07:38,493 - INFO - Experiment: alpha_0.1_eps_0.2
+2026-06-25 16:07:38,494 - INFO - Episodes=5000, alpha=0.1, gamma=0.9, epsilon=0.2
+2026-06-25 16:07:40,240 - INFO - Episode 500: reward=-61, steps=46
+2026-06-25 16:07:40,850 - INFO - Episode 1000: reward=-14, steps=17
+2026-06-25 16:07:41,175 - INFO - Episode 1500: reward=-43, steps=37
+2026-06-25 16:07:41,454 - INFO - Episode 2000: reward=-1, steps=22
+2026-06-25 16:07:41,690 - INFO - Episode 2500: reward=-5, steps=17
+2026-06-25 16:07:41,906 - INFO - Episode 3000: reward=-32, steps=26
+2026-06-25 16:07:42,174 - INFO - Episode 3500: reward=1, steps=11
+2026-06-25 16:07:42,392 - INFO - Episode 4000: reward=-17, steps=20
+2026-06-25 16:07:42,607 - INFO - Episode 4500: reward=-20, steps=23
+2026-06-25 16:07:42,871 - INFO - Episode 5000: reward=-6, steps=18
+2026-06-25 16:07:42,876 - INFO - Experiment: alpha_0.1_eps_0.3
+2026-06-25 16:07:42,878 - INFO - Episodes=5000, alpha=0.1, gamma=0.9, epsilon=0.3
+2026-06-25 16:07:44,654 - INFO - Episode 500: reward=-102, steps=60
+2026-06-25 16:07:45,298 - INFO - Episode 1000: reward=-14, steps=17
+2026-06-25 16:07:45,623 - INFO - Episode 1500: reward=-30, steps=15
+2026-06-25 16:07:45,902 - INFO - Episode 2000: reward=-17, steps=20
+2026-06-25 16:07:46,153 - INFO - Episode 2500: reward=0, steps=21
+2026-06-25 16:07:46,436 - INFO - Episode 3000: reward=-31, steps=25
+2026-06-25 16:07:46,701 - INFO - Episode 3500: reward=8, steps=13
+2026-06-25 16:07:46,952 - INFO - Episode 4000: reward=-4, steps=16
+2026-06-25 16:07:47,202 - INFO - Episode 4500: reward=-1, steps=13
+2026-06-25 16:07:47,452 - INFO - Episode 5000: reward=-5, steps=17
+2026-06-25 16:07:48,038 - INFO - Experiment: best_combo
+2026-06-25 16:07:48,038 - INFO - Episodes=5000, alpha=0.2, gamma=0.9, epsilon=0.1
+2026-06-25 16:07:49,367 - INFO - Episode 500: reward=-78, steps=72
+2026-06-25 16:07:49,604 - INFO - Episode 1000: reward=-1, steps=13
+2026-06-25 16:07:49,816 - INFO - Episode 1500: reward=-3, steps=15
+2026-06-25 16:07:50,010 - INFO - Episode 2000: reward=7, steps=14
+2026-06-25 16:07:50,237 - INFO - Episode 2500: reward=8, steps=13
+2026-06-25 16:07:50,452 - INFO - Episode 3000: reward=6, steps=15
+2026-06-25 16:07:50,649 - INFO - Episode 3500: reward=13, steps=8
+2026-06-25 16:07:50,833 - INFO - Episode 4000: reward=7, steps=14
+2026-06-25 16:07:51,031 - INFO - Episode 4500: reward=0, steps=21
+2026-06-25 16:07:51,230 - INFO - Episode 5000: reward=6, steps=15
+2026-06-25 16:09:33,529 - INFO - Assignment 2: Starting experiments
+2026-06-25 16:09:33,828 - INFO - Experiment: baseline
+2026-06-25 16:09:33,828 - INFO - Episodes=1, alpha=0.1, gamma=0.9, epsilon=0.1
+2026-06-25 16:09:51,121 - INFO - Assignment 2: Starting experiments
+2026-06-25 16:09:51,379 - INFO - Experiment: baseline
+2026-06-25 16:09:51,379 - INFO - Episodes=1, alpha=0.1, gamma=0.9, epsilon=0.1
+2026-06-25 16:09:53,837 - INFO - Assignment 2: Starting experiments
+2026-06-25 16:09:54,339 - INFO - Experiment: baseline
+2026-06-25 16:09:54,339 - INFO - Episodes=1, alpha=0.1, gamma=0.9, epsilon=0.1
+2026-06-25 17:12:04,824 - INFO - Assignment 2: Starting experiments
+2026-06-25 17:19:06,171 - INFO - Assignment 2: Starting experiments
